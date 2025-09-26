@@ -1,1 +1,1 @@
-# CU-Computational-Methods-Planning
+# CU Computational Methods Planning
