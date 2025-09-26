@@ -1,6 +1,6 @@
-# Course Learning Outcomes
+# Scope of ASEN 3502: Computational Methods
 
-## Student Learning Outcomes
+## Learning Outcomes
 
 After taking the course, students should be able to:
 - Understand the role of computational methods in the modeling, simulation, design, and control of aerospace systems.
@@ -62,7 +62,7 @@ After taking the course, students should be able to:
     - Memory (e.g. stack vs heap) [Somewhat desirable]
     - Performance (e.g. vectorization, parallelization) [Somewhat desirable]
 
-### Skills
+## Skills
 
 (I know these read more like outcomes than skills, but I didn't want to just repeat the concepts. We probably should narrow the concepts down more before writing detailed skills.)
 
