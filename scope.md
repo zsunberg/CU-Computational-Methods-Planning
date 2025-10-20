@@ -1,15 +1,5 @@
 # Scope of ASEN 3502: Computational Methods
 
-## Learning Outcomes
-
-After taking the course, students should be able to:
-- Understand the role of computational methods in the modeling, simulation, design, and control of aerospace systems.
-- Understand the computational methods covered in class, including their computational cost and accuracy.
-- Implement and verify the computational methods covered in class.
-- Apply the computational methods covered in class to the modeling, simulation, design, and control of aerospace systems.
-- Implement, verify, and apply self-taught computational methods not covered in class. 
-
-
 ## Topics
 
 - Numerical solution of systems of linear algebraic equations [Essential]

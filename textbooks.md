@@ -1,5 +1,6 @@
 - *Numerical Methods for Engineers*, Chapra and Canale
     - From original course proposal
     - Only a paperback international version is available on Amazon
+- *Applied Numberical Methods with MATLAB*, Chapra
 - *Applied Numerical Analysis*, Gerald and Wheatley
     - From Zach's undergraduate
