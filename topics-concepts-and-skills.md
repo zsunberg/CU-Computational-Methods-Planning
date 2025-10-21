@@ -34,51 +34,13 @@ For example, in ASEN 3402: Aerospace Heat Transfer, conduction, radiation, and c
 
 A concept is a fundamental idea, principle, or relationship that helps explain how things work within a topic. It builds understanding of the theory behind engineering phenomena.
 
-- Analysis of Algorithms
-    - Representation as precisely-defined instructions (i.e. pseudocode) [Essential]
-    - Asymptotic notation for function growth (Big O, Big Theta, Big Omega) [Essential]
-    - Computational complexity of algorithms [Essential]
-- Linear Equations
-    - Gaussian elimination [Essential]
-    - LU decomposition [Essential] 
-    - Application: TBD (Perhaps truss analysis?)
-- Nonlinear Equations
-    - Bracketing methods
-    - Newton's method
-- Differential Equations
-    - Euler's method [Essential]
-    - Runga-Kutta 4th order method [Essential]
-    - Others (e.g. adaptive Runga-Kutta, others, need to review) [Somewhat desirable]
-- Numerical optimization methods
-    - Gradient descent [Highly desirable]
-    - Lagrange multiplier methods [Somewhat desirable]
-    - Newton's method [Somewhat desirable]
-    - Quasi-Newton, Conjugate gradient, etc. [Somewhat desirable]
-    - Momentum, Adam, etc. [Somewhat desirable]
-- Regression methods
-    - Linear least squares [Essential]
-    - Nonlinear least squares [Somewhat desirable]
-    - Neural network regression [Highly desirable]
-        - Auto-differentiation use [Highly desirable]
-        - Auto-differentiation implementation [Somewhat desirable]
-        - Stochastic gradient descent [Highly desirable]
-
-
-- Programming
-    - 
-    - Paradigms [Somewhat desirable]
-    - Compilation strategies [Somewhat desirable]
-    - Data structures [Somewhat desirable]
-    - Memory (e.g. stack vs heap) [Somewhat desirable]
-    - Performance (e.g. vectorization, parallelization) [Somewhat desirable]
-
-
+Concepts are being developed in [this google doc](https://docs.google.com/spreadsheets/d/1NU_O-n32ccqgSSqnjh-YYHleyFIDzCBkznIUxrpPsAk/edit?usp=sharing) (you will need your CU account to log in).
 
 ## Skills
 
-A skill is a practical ability to apply concepts to solve problems, analyze systems, or design solutions.  It focuses on application - what a student can do with their knowledge attained in a class.
+WIP: I have not had a chance to develop the skills yet.
 
-For example, calculating the rate of heat loss through a wall using Fourier’s law of heat conduction is a skill within ASEN 3402.  Employing control volume analysis to tackle heat transfer problems is also a skill - and arguably the most important skill developed in ASEN 3402.  It should be noted students will be learning how to apply control volume analysis in ASEN 3402’s prerequisite ASEN 2402: Thermodynamics, so we will be reinforcing this skill in ASEN 3402 and applying it to a new class of problems. 
+A skill is a practical ability to apply concepts to solve problems, analyze systems, or design solutions.  It focuses on application - what a student can do with their knowledge attained in a class.
 
 - Reasoning about an algorithm apart from implementation (i.e. with pseudocode) [Essential]
     - Correctness
