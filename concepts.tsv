@@ -1,0 +1,28 @@
+Concept	Primary Topic	CLO 1: Numerical Methods	CLO 2: Problem Formulation	CLO 3: Evaluation	CLO 4: Implementation	CLO 5: Self-Learning
+Representation as precisely-defined instructions (i.e. pseudocode)	Analysis of Algorithms
+Asymptotic notation for function growth (Big O, Big Theta, Big Omega)	Analysis of Algorithms
+Computational complexity of algorithms	Analysis of Algorithms
+Gaussian elimination	Linear Equations
+LU decomposition	Linear Equations
+Linear Equation Application: TBD (Perhaps truss analysis?)	Linear Equations
+Bracketing methods	Nonlinear Equations
+Newton's method	Nonlinear Equations
+Euler's method	Differential Equations
+Runga-Kutta 4th order method	Differential Equations
+Others (e.g. adaptive Runga-Kutta, others, need to review)	Differential Equations
+Gradient descent	Numerical Optimization
+Lagrange multiplier methods	Numerical Optimization
+Newton's method	Numerical Optimization
+Quasi-Newton, Conjugate gradient, etc.	Numerical Optimization
+Momentum, Adam, etc.	Numerical Optimization
+Linear least squares	Regression
+Nonlinear least squares	Regression
+Neural network regression	Regression
+Auto-differentiation use	Regression
+Auto-differentiation implementation	Regression
+Stochastic gradient descent	Regression
+Paradigms	Programming
+Compilation strategies	Programming
+Data structures	Programming
+Memory (e.g. stack vs heap)	Programming
+Performance (e.g. vectorization, parallelization)	Programming

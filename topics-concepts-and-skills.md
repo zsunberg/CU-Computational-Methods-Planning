@@ -34,43 +34,7 @@ For example, in ASEN 3402: Aerospace Heat Transfer, conduction, radiation, and c
 
 A concept is a fundamental idea, principle, or relationship that helps explain how things work within a topic. It builds understanding of the theory behind engineering phenomena.
 
-- Analysis of Algorithms
-    - Representation as precisely-defined instructions (i.e. pseudocode) [Essential]
-    - Asymptotic notation for function growth (Big O, Big Theta, Big Omega) [Essential]
-    - Computational complexity of algorithms [Essential]
-- Linear Equations
-    - Gaussian elimination [Essential]
-    - LU decomposition [Essential] 
-    - Application: TBD (Perhaps truss analysis?)
-- Nonlinear Equations
-    - Bracketing methods
-    - Newton's method
-- Differential Equations
-    - Euler's method [Essential]
-    - Runga-Kutta 4th order method [Essential]
-    - Others (e.g. adaptive Runga-Kutta, others, need to review) [Somewhat desirable]
-- Numerical optimization methods
-    - Gradient descent [Highly desirable]
-    - Lagrange multiplier methods [Somewhat desirable]
-    - Newton's method [Somewhat desirable]
-    - Quasi-Newton, Conjugate gradient, etc. [Somewhat desirable]
-    - Momentum, Adam, etc. [Somewhat desirable]
-- Regression methods
-    - Linear least squares [Essential]
-    - Nonlinear least squares [Somewhat desirable]
-    - Neural network regression [Highly desirable]
-        - Auto-differentiation use [Highly desirable]
-        - Auto-differentiation implementation [Somewhat desirable]
-        - Stochastic gradient descent [Highly desirable]
-
-
-- Programming
-    - 
-    - Paradigms [Somewhat desirable]
-    - Compilation strategies [Somewhat desirable]
-    - Data structures [Somewhat desirable]
-    - Memory (e.g. stack vs heap) [Somewhat desirable]
-    - Performance (e.g. vectorization, parallelization) [Somewhat desirable]
+See [concepts.csv](concepts.csv) for the full list of concepts organized by topic.
 
 
 
