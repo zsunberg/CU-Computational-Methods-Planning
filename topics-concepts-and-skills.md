@@ -34,11 +34,18 @@ For example, in ASEN 3402: Aerospace Heat Transfer, conduction, radiation, and c
 
 A concept is a fundamental idea, principle, or relationship that helps explain how things work within a topic. It builds understanding of the theory behind engineering phenomena.
 
-Concepts are being developed in [this google spreadsheet](https://docs.google.com/spreadsheets/d/1NU_O-n32ccqgSSqnjh-YYHleyFIDzCBkznIUxrpPsAk/edit?usp=sharing) (you will need your CU account to log in).
+Concepts are being developed in [this google spreadsheet](https://docs.google.com/spreadsheets/d/1NU_O-n32ccqgSSqnjh-YYHleyFIDzCBkznIUxrpPsAk/edit?usp=sharing) (you will need your CU account to access it).
+
+> [!NOTE]
+> I assigned each concept to a "seed" topic, but, since most concepts have an Error Analysis and Control component, I did not use that as a seed topic.
+
+> [!NOTE]
+> In the CLO table, I am least confident about the Evaluation CLO. I basically linked concepts to this CLO if I could think of a theoretical basis for evaluating them. This is not very rigorous or reliable.
 
 ## Skills
 
-WIP: I have not had a chance to develop the skills yet.
+> [!NOTE]
+> Skills are a work in progress! I have not had a chance to develop the skills yet.
 
 A skill is a practical ability to apply concepts to solve problems, analyze systems, or design solutions.  It focuses on application - what a student can do with their knowledge attained in a class.
 
