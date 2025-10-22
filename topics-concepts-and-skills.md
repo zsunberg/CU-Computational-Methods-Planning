@@ -34,7 +34,7 @@ For example, in ASEN 3402: Aerospace Heat Transfer, conduction, radiation, and c
 
 A concept is a fundamental idea, principle, or relationship that helps explain how things work within a topic. It builds understanding of the theory behind engineering phenomena.
 
-Concepts are being developed in [this google doc](https://docs.google.com/spreadsheets/d/1NU_O-n32ccqgSSqnjh-YYHleyFIDzCBkznIUxrpPsAk/edit?usp=sharing) (you will need your CU account to log in).
+Concepts are being developed in [this google spreadsheet](https://docs.google.com/spreadsheets/d/1NU_O-n32ccqgSSqnjh-YYHleyFIDzCBkznIUxrpPsAk/edit?usp=sharing) (you will need your CU account to log in).
 
 ## Skills
 
