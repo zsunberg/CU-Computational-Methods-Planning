@@ -10,14 +10,14 @@ For example, in ASEN 3402: Aerospace Heat Transfer, conduction, radiation, and c
 
 - Numerical solution of linear algebraic equations
 - Numerical solution of nonlinear algebraic equations
-- Numerical solution of ODEs (IVPs and BVPs)
+- Numerical solution of ODEs (Initial value problems and boundary value problems)
 - Numerical optimization
-- Regression and data-fitting
+- Regression
 - Visualizing and interpreting computed results
 
 ### CLO2: Problem Formulation
 
-- Construction of mathematical model from physics
+- Construction of a mathematical model
 - Identifying key assumptions and neglected effects
 - Qualitative understanding of well-posedness (existence, uniqueness, stability)
 - Classification of mathematical models (algebraic, ODE, optimization)
@@ -26,19 +26,17 @@ For example, in ASEN 3402: Aerospace Heat Transfer, conduction, radiation, and c
 ### CLO3: Evaluation
 
 - Grid/time-step refinement and empirical order estimation
-- Stability analysis, stiffness, and time-step limits (e.g., CFL number)
-- Performance profiling and scalability
+- Stability analysis, stiffness, and time-step limits
+- Analysis of algorithms
 - Verification (against benchmark or analytical solutions)
 - Validation (against experimental data)
 - Presenting and defending computational decisions with evidence
 
 ### CLO4: Implementation
 
-- Scientific programming in MATLAB
-- Modular code structure and testing frameworks
-- Performance profiling and vectorization
-- Version control (Git/GitHub) for collaborative labs and projects
-- Technical communication
+- Scientific programming
+- Program performance
+- Documentation and sharing code
 
 ### CLO5: Self-Learning
 
@@ -46,37 +44,6 @@ For example, in ASEN 3402: Aerospace Heat Transfer, conduction, radiation, and c
 - Adapting third-party algorithms or data sources
 - Designing small experiments to test or verify new methods
 - Summarizing and presenting self-directed work to peers
-
-### CLO Matrix
-
-| Topic                                        | 1 | 2 | 3 | 4 | 5 |
-|----------------------------------------------|---|---|---|---|---|
-| Linear algebraic equations                   | X |   |   |   |   |
-| Nonlinear algebraic equations                | X |   |   |   |   |
-| ODEs (IVPs and BVPs)                         | X |   |   |   |   |
-| Numerical optimization                       | X |   |   |   |   |
-| Regression and data-fitting                  | X |   |   |   |   |
-| Visualizing and interpreting results         | X |   |   |   |   |
-| Mathematical model construction              |   | X |   |   |   |
-| Assumptions and neglected effects            |   | X |   |   |   |
-| Well-posedness                               |   | X |   |   |   |
-| Model classification                         |   | X |   |   |   |
-| Domain of validity and interpretation        |   | X |   |   |   |
-| Grid/time-step refinement                    |   |   | X |   |   |
-| Stability analysis and time-step limits      |   |   | X |   |   |
-| Performance profiling and scalability        |   |   | X | X |   |
-| Verification                                 |   |   | X |   |   |
-| Validation                                   |   |   | X |   |   |
-| Presenting computational decisions           |   |   | X |   |   |
-| Scientific programming in MATLAB             |   |   |   | X |   |
-| Modular code structure and testing           |   |   |   | X |   |
-| Version control (Git/GitHub)                 |   |   |   | X |   |
-| Technical communication                      |   |   |   | X |   |
-| Exploration of external libraries            |   |   |   |   | X |
-| Adapting third-party algorithms              |   |   |   |   | X |
-| Designing experiments for new methods        |   |   |   |   | X |
-| Presenting self-directed work                |   |   |   |   | X |
-
 
 
 ## Concepts
@@ -105,6 +72,8 @@ A skill is a practical ability to apply concepts to solve problems, analyze syst
 - Translating a concrete engineering problem into a computational problem (perhaps not essential because they do this in other classes) [Highly desirable]
 - Defining an algorithms that operationalizes a methods studied in the course [Highly desirable]
 - Implementing an algorithm as an efficient computer program [Essential]
+    - Profiling
+
 - Using code written by others and writing code for others to use [Somewhat desirable]
 - Finding and implementing an algorithm to solve an engineering problem without previous exposure to the algorithm [Highly desirable]
 - Using a computer to solve a simple example of the following problems:
