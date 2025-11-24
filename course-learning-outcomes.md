@@ -1,9 +1,9 @@
 # Course Learning Outcomes (CLOs) for ASEN 3502: Computational Methods
 
 After taking the course, students should be able to:
-1. [**Numerical Methods**] Apply numerical methods to solve linear and nonlinear algebraic equations, differential equations, optimization problems, and regression problems including basic machine learning.
-2. [**Problem Formulation**] Formulate mathematical problems for modeling, simulating, designing, and controlling aerospace systems.
-3. [**Evaluation**] Evaluate and communicate about the appropriateness of computational methods for a particular task in terms of computational efficiency, correctness, and accuracy.
+1. [**Numerical Methods**] Apply and interpret numerical methods for solving computational problems typically encountered in aerospace engineering, including algebraic systems, differential equations, optimization, and regression.
+2. [**Problem Formulation**] Formulate aerospace engineering problems as mathematical problems appropriate for computational solution.
+3. [**Evaluation**] Evaluate and communicate about the appropriateness of computational methods for a particular task in terms of computational cost, order of accuracy, implementation complexity, and stability.
 4. [**Implementation**] Implement algorithms in an efficient and maintainable manner as an individual and as part of a team.
 5. [**Self-Learning**] Discover, implement, verify, and apply self-taught computational methods not covered in class. 
 
