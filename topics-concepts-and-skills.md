@@ -2,31 +2,80 @@
 
 ## Topics
 
-A topic is a broad subject area or category of study within a course.  It provides the context or “bucket” for learning.
+A topic is a broad subject area or category of study within a course. It provides the context or "bucket" for learning.
 
 For example, in ASEN 3402: Aerospace Heat Transfer, conduction, radiation, and convention are topics.
 
-- Analysis of algorithms [Essential]
-- Numerical solution of systems of linear algebraic equations [Essential]
-- Numerical solution of nonlinear algebraic equations [Essential]
-- Numerical solution of differential equations [Essential]
-- Numerical Optimization [Essential]
-- Regression [Essential]
-- Error analysis and control [Essential]
-- Programming [Essential]
+### CLO1: Numerical Methods
+
+- Numerical solution of linear algebraic equations
+- Numerical solution of nonlinear algebraic equations
+- Numerical solution of ODEs (IVPs and BVPs)
+- Numerical optimization
+- Regression and data-fitting
+- Visualizing and interpreting computed results
+
+### CLO2: Problem Formulation
+
+- Construction of mathematical model from physics
+- Identifying key assumptions and neglected effects
+- Qualitative understanding of well-posedness (existence, uniqueness, stability)
+- Classification of mathematical models (algebraic, ODE, optimization)
+- Domain of validity and physical interpretation
+
+### CLO3: Evaluation
+
+- Grid/time-step refinement and empirical order estimation
+- Stability analysis, stiffness, and time-step limits (e.g., CFL number)
+- Performance profiling and scalability
+- Verification (against benchmark or analytical solutions)
+- Validation (against experimental data)
+- Presenting and defending computational decisions with evidence
+
+### CLO4: Implementation
+
+- Scientific programming in MATLAB
+- Modular code structure and testing frameworks
+- Performance profiling and vectorization
+- Version control (Git/GitHub) for collaborative labs and projects
+- Technical communication
+
+### CLO5: Self-Learning
+
+- Exploration of external aerospace-related libraries
+- Adapting third-party algorithms or data sources
+- Designing small experiments to test or verify new methods
+- Summarizing and presenting self-directed work to peers
 
 ### CLO Matrix
 
-| Topic                      | 1. Numerical Methods | 2. Problem Formulation | 3. Evaluation | 4. Implementation | 5. Self-Learning |
-|----------------------------|----------------------|------------------------|---------------|-------------------|------------------|
-| Analysis of Algorithms     |                      |                        |       X       |                   |        X         |
-| Linear Equations           |          X           |           X            |       X       |         X         |                  |
-| Nonlinear Equations        |          X           |           X            |       X       |         X         |                  |
-| Differential Equations     |          X           |           X            |       X       |         X         |                  |
-| Numerical Optimization     |          X           |           X            |       X       |         X         |                  |
-| Regression                 |          X           |           X            |       X       |         X         |                  |
-| Error Analysis and Control |          X           |                        |       X       |                   |        X         |
-| Programming                |          X           |                        |               |         X         |        X         |
+| Topic                                        | 1 | 2 | 3 | 4 | 5 |
+|----------------------------------------------|---|---|---|---|---|
+| Linear algebraic equations                   | X |   |   |   |   |
+| Nonlinear algebraic equations                | X |   |   |   |   |
+| ODEs (IVPs and BVPs)                         | X |   |   |   |   |
+| Numerical optimization                       | X |   |   |   |   |
+| Regression and data-fitting                  | X |   |   |   |   |
+| Visualizing and interpreting results         | X |   |   |   |   |
+| Mathematical model construction              |   | X |   |   |   |
+| Assumptions and neglected effects            |   | X |   |   |   |
+| Well-posedness                               |   | X |   |   |   |
+| Model classification                         |   | X |   |   |   |
+| Domain of validity and interpretation        |   | X |   |   |   |
+| Grid/time-step refinement                    |   |   | X |   |   |
+| Stability analysis and time-step limits      |   |   | X |   |   |
+| Performance profiling and scalability        |   |   | X | X |   |
+| Verification                                 |   |   | X |   |   |
+| Validation                                   |   |   | X |   |   |
+| Presenting computational decisions           |   |   | X |   |   |
+| Scientific programming in MATLAB             |   |   |   | X |   |
+| Modular code structure and testing           |   |   |   | X |   |
+| Version control (Git/GitHub)                 |   |   |   | X |   |
+| Technical communication                      |   |   |   | X |   |
+| Exploration of external libraries            |   |   |   |   | X |
+| Adapting third-party algorithms              |   |   |   |   | X |
+| Designing experiments for new methods        |   |   |   |   | X |
+| Presenting self-directed work                |   |   |   |   | X |
 
 
 
