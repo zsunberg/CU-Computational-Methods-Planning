@@ -4,8 +4,6 @@
 
 A topic is a broad subject area or category of study within a course. It provides the context or "bucket" for learning.
 
-For example, in ASEN 3402: Aerospace Heat Transfer, conduction, radiation, and convention are topics.
-
 ### CLO1: Numerical Methods
 
 - Numerical solution of linear algebraic equations
@@ -48,15 +46,45 @@ For example, in ASEN 3402: Aerospace Heat Transfer, conduction, radiation, and c
 
 ## Concepts
 
-A concept is a fundamental idea, principle, or relationship that helps explain how things work within a topic. It builds understanding of the theory behind engineering phenomena.
+### CLO1: Numerical Methods
 
-Concepts are being developed in [this google spreadsheet](https://docs.google.com/spreadsheets/d/1NU_O-n32ccqgSSqnjh-YYHleyFIDzCBkznIUxrpPsAk/edit?usp=sharing) (you will need your CU account to access it).
+- Computational problem classes (algebraic, differential, optimization, regression)
+- Approximation, discretization, and convergence
+- Order of accuracy and numerical stability (at the method level)
+- Computational cost and efficiency
+- Interpretation of numerical results in physical and engineering context
 
-> [!NOTE]
-> I assigned each concept to a "seed" topic, but, since most concepts have an Error Analysis and Control component, I did not use that as a seed topic.
+### CLO2: Problem Formulation
 
-> [!NOTE]
-> In the CLO table, I am least confident about the Evaluation CLO. I basically linked concepts to this CLO if I could think of a theoretical basis for evaluating them. This is not very rigorous or reliable.
+- Model hierarchy: physical -> mathematical -> computational -> computer
+- Model simplification and fidelity
+- Boundary/initial conditions and well-posedness
+- Scaling, nondimensionalization, and conditioning
+- Domain of validity and physical interpretation
+
+### CLO3: Evaluation
+
+- Verification ("Did we solve the equations right?") and validation ("Did we solve the right equations?")
+- Evaluation criteria: computational cost, accuracy, complexity, stability
+- Error and uncertainty quantification
+- Sensitivity and conditioning
+- Communication of computational judgments
+
+### CLO4: Implementation
+
+- Software design principles: modularity, readability, maintainability
+- Version control and collaborative workflows
+- Testing and reproducibility
+- Documentation and visualization
+- Computational ethics and professionalism
+
+### CLO5: Self-Learning
+
+- Self-learning strategies for computational methods
+- Reading and interpreting external documentation and literature
+- Integrating new tools responsibly into an existing computational workflow
+- Verification and benchmark of external code
+- Reflection, communication, and documentation of independent learning
 
 ## Skills
 
@@ -73,7 +101,6 @@ A skill is a practical ability to apply concepts to solve problems, analyze syst
 - Defining an algorithms that operationalizes a methods studied in the course [Highly desirable]
 - Implementing an algorithm as an efficient computer program [Essential]
     - Profiling
-
 - Using code written by others and writing code for others to use [Somewhat desirable]
 - Finding and implementing an algorithm to solve an engineering problem without previous exposure to the algorithm [Highly desirable]
 - Using a computer to solve a simple example of the following problems:
