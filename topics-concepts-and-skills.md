@@ -18,6 +18,8 @@
 - Regression
 - Visualizing and interpreting computed results
 
+> [!NOTE] A list of algorithms for these topics is maintained in [algorithms.md](./algorithms.md).
+
 ### Concepts
 
 - Computational problem classes (algebraic, differential, optimization, regression)
