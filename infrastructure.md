@@ -9,3 +9,11 @@ Object-oriented programming will either not be used or will be used sparingly to
 # Assignments and Evaluation
 
 We will build on the 
+
+# Schedule
+
+- My understanding is that this class will have 2 credits lecture (2x50 minute lectures) + 1 credit lab (1:50 lab)
+
+- Initial short week
+- 13 regular weeks
+- Short week with midsemester reading day

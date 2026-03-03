@@ -85,6 +85,7 @@
 ### Topics
 
 - Scientific programming
+    - History of Programming
 - Basic software engineering
 - Program performance
 - Documentation and sharing code
