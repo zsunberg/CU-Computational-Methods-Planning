@@ -4,6 +4,7 @@
 
 - Gaussian elimination [Essential]
 - LU decomposition [Essential]
+- Cramer's rule (as an example of a "bad" algorithm with exponential complexity) [Somewhat Desirable]
 
 ## Nonlinear Algebraic Equations
 
@@ -34,4 +35,4 @@
 - Linear least squares with linear basis functions [Essential]
 - Linear least squares with nonlinear basis functions [Highly Desirable]
 - Nonlinear regression [Highly Desirable]
-- Neural network regression using data [Highly Desirable]
+- Neural network regression [Highly Desirable]
