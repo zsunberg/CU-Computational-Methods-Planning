@@ -1,4 +1,5 @@
-[Submitted Course and Curriculum Proposals](https://o365coloradoedu.sharepoint.com/sites/AEROENGR-Curriculum/Shared Documents/Forms/AllItems.aspx?CT=1758649522894&OR=OWA-NT-Mail&CID=c46e764f-5948-c1df-6900-3f4e7a2728a2&csf=1&web=1&e=hHvpgl&clickParams=eyJYLUFwcE5hbWUiOiJNaWNyb3NvZnQgT3V0bG9vayBXZWIgQXBwIiwiWC1BcHBWZXJzaW9uIjoiMjAyNTA5MTEwNjMuMDciLCJPUyI6IkxpbnV4IHVuZGVmaW5lZCJ9&cidOR=Client&FolderCTID=0x012000FF189DA437604647B70D4FF75D4435C4&id=%2Fsites%2FAEROENGR-Curriculum%2FShared Documents%2FUG Committee%2FAY 25-26%2FCourse Development%2FSubmitted Course and Curriculum Proposals%2FAY 23-24)
+  [Submitted Course and Curriculum Proposals](https://o365coloradoedu.sharepoint.com/sites/AEROENGR-Curriculum/Shared%20Documents/Forms/AllItems.aspx?CT=1758649522894&OR=OWA-NT-Mail&CID=c46e764f-5948-c1df-6900-3f4e7a2728a2&csf=1&web=1&e=hHvpgl&clickParams=eyJYLUFwcE5hbWUiOiJNaWNyb3NvZnQgT3V0bG9vayBXZWIgQXBwIiwiWC1BcHBWZXJzaW9uIjoiMjAyNTA5MTEwNjMuMDciLCJPUyI6IkxpbnV4IHVuZGVmaW5lZCJ9&cidOR=Client&FolderCTID=0x012000FF189DA437604647B70D4FF75D4435C4&id=%2Fsites%2FAEROENGR-Curriculum%2FShared%20Documents%2FUG%20Committee%2FAY%2025-26%2FCourse%20Development%2FSubmitted%20Course%20and%20Curriculum%20Proposals%2FAY%2023-24)
+
 
 ### Student Learning Outcomes
 
