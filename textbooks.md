@@ -6,3 +6,6 @@
 - GW: *Applied Numerical Analysis*, Gerald and Wheatley
     - From Zach's undergraduate
     - Weak on regression
+- AT: *An Introduction to Numerical Analysis* Atkinson (Alireza)
+
+- Pearson: Mastering engineering
