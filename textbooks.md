@@ -3,9 +3,18 @@
     - Only a paperback international version is available on Amazon
 - Ch: *Applied Numerical Methods with MATLAB*, Chapra
     - John gave me a copy
+    - Very example-oriented Gaussian elimination
+    - Does have computational complexity discussion in Gaussian elimination
 - GW: *Applied Numerical Analysis*, Gerald and Wheatley
     - From Zach's undergraduate
     - Weak on regression
 - AT: *An Introduction to Numerical Analysis* Atkinson (Alireza)
+    - Cambridge
+    - No optimization, no regression
+- SA: *Numerical Analysis*, Sau
+    - 3rd edition
+    - Timothy Sauer, George Mason University
+    - No regression or constrained optimization
+    - Pearson
 
-- Pearson: Mastering engineering
+- Pearson: Mastering engineering (Alireza said this is good)

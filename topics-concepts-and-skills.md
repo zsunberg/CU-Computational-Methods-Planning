@@ -58,7 +58,7 @@
 
 - Grid/time-step refinement and empirical order estimation
 - Stability analysis, stiffness, and time-step limits
-- Analysis of algorithms
+- Analysis of algorithms (computational complexity at the algorithm level)
 - Verification (against benchmark or analytical solutions)
 - Validation (against experimental data)
 - Presenting and defending computational decisions with evidence
@@ -89,13 +89,14 @@
 - Basic software engineering
 - Program performance
 - Documentation and sharing code
+- AI Use in programming!
 
 ### Concepts
 
 - Software design principles: modularity, readability, maintainability
 - Testing and reproducibility
-- Documentation and visualization
-- Computational ethics and professionalism
+- ~Documentation and visualization~
+- ~Computational ethics and professionalism~
 - Performance optimization
     - Memory (stack vs. heap)
     - Parallelism 

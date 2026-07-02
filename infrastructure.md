@@ -1,6 +1,6 @@
 # Programming Language and Style
 
-Students will be allowed to use the language of their choice. Instruction will likely be in python with jax for high performance and auto-differentiation.
+Students will be allowed to use the language of their choice. Instruction will likely be in matlab.
 I will conduct a trade study to determine the teaching language.
 (Don't worry, I will be sure to tell them how great Julia and Rust are!)
 
@@ -17,3 +17,10 @@ We will build on the
 - Initial short week
 - 13 regular weeks
 - Short week with midsemester reading day
+
+# Python pain points
+
+- 0-based indexing
+- creating arrays
+- handling integers
+- np.column_stack((A, b)).astype(float)
